@@ -105,7 +105,20 @@ This is an unofficial, community-maintained list. It is not affiliated with, end
 
 *Substantive methods and engineering accounts, not promotional articles.*
 
+### Articles
+
 - [How F5Bot slurps all of Reddit](https://intoli.com/blog/f5bot/) - An engineering account of building complete-coverage Reddit ingestion and high-volume keyword matching on a single server.
+
+### eBooks
+
+- [Reddit Marketing (Goodreads)](https://www.goodreads.com/book/show/26370190?ref=s_s) - A Goodreads-listed ebook resource for learning Reddit marketing.
+- [Growth Hacking Reddit](https://www.goodreads.com/book/show/239010027-growth-hacking-reddit) - A Goodreads-listed ebook about growth and customer acquisition through Reddit.
+
+### Videos
+
+- [How I Used Reddit to Hit $17K MRR (With ZERO Audience)](https://www.youtube.com/watch?v=BaWUPamqWlA) - A Starter Story interview about using Reddit from zero audience, finding relevant subreddits, and contributing value before introducing a product.
+- [How I Used Reddit to Build a $34K/Month SaaS](https://www.youtube.com/watch?v=pvjalHFNM9Q) - A Starter Story case study on using story, data, and early interaction to support SaaS growth through Reddit.
+- [The Marketing Playbook behind a $207K/month SaaS](https://www.youtube.com/watch?v=Ul2LaZIPqMY) - A notJust.dev interview with Postiz founder Nevo David that includes practical guidance on discussing a product in Reddit communities.
 
 ## Related Lists
 
