@@ -87,6 +87,7 @@ This is an unofficial, community-maintained list. It is not affiliated with, end
 
 - [Subreddit Traffic](https://subreddittraffic.live) - Analyzes subreddit activity, subscriber growth, posting times, and related communities.
 - [PostWatch](https://www.postwatch.app) - Analyzes subreddit activity to show posting heatmaps, recommended time windows, and content performance patterns.
+- [KissMyPost](https://kissmypost.com) - Reddit audience research that shows who posts in each subreddit (country, age, occupation), its rules, removal rate and posting times, with search across posts and comments back to 2005.
 
 ## Developer Tools, APIs, and Datasets
 
